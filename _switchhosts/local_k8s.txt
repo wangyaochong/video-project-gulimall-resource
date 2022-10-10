@@ -1,0 +1,8 @@
+192.168.175.130 gulimall.com
+192.168.175.130 search.gulimall.com
+192.168.175.130 item.gulimall.com
+192.168.175.130 seckill.gulimall.com
+192.168.175.130 auth.gulimall.com
+192.168.175.130 cart.gulimall.com
+192.168.175.130 order.gulimall.com
+192.168.175.133 tomcat6.atguigu.com
